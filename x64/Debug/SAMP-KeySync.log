@@ -1,0 +1,11 @@
+﻿  BitStream.cpp
+  HookedRakClient.cpp
+C:\Users\admin\Desktop\KeySync\ASIFramework\main.h(10,10): error C1083:  Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  samp.cpp
+C:\Users\admin\Desktop\KeySync\ASIFramework\main.h(10,10): error C1083:  Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  CKeyManager.cpp
+C:\Users\admin\Desktop\KeySync\ASIFramework\main.h(10,10): error C1083:  Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  main.cpp
+C:\Users\admin\Desktop\KeySync\CKeyManager.h(4,10): error C1083:  Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  Создание кода...
+C:\Users\admin\Desktop\KeySync\CKeyManager.h(4,10): error C1083:  Не удается открыть файл включение: d3dx9.h: No such file or directory,
